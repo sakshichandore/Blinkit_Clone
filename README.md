@@ -17,8 +17,10 @@ A responsive e-commerce website inspired by Blinkit, built using React, Vite, an
 •	Fully responsive layout (Mobile & Desktop)
 •	Homepage with categories & offers
 •	Products
-•	Shopping cart 
+•	Shopping cart
 •	Checkout page
+
+
 =======
 # React + Vite
 
